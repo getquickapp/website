@@ -1,0 +1,12 @@
+[
+    {
+        "relation": ["delegate_permission/common.get_login_creds"],
+            "target": {
+            "namespace": "android_app",
+            "package_name": "com.quick.mobile",
+            "sha256_cert_fingerprints": [
+                "5f:1e:1b:9a:11:96:14:52:14:2c:45:9e:8b:af:fc:e8:ea:18:d4:25:99:1a:a2:24:8c:0e:67:40:bc:69:3e:12"
+            ]
+        }
+    }
+]
